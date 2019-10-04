@@ -61,4 +61,4 @@ typings/
 .idea
 
 # compiled scripts
-dist
+# dist
